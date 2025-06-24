@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rainpaw
-- 👀 I’m interested in programming in a bunch of languages, including Unity and Java.
-- 🌱 I’m currently learning how to make 2D games in Unity.
+- 👀 I’m interested in programming in a bunch of languages, including C#, Java, and Python.
+- 🌱 I’m currently learning HTML.
 - 😄 Pronouns: he/him
 
 <!---
